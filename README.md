@@ -23,7 +23,7 @@ Frontend	React.js, Tailwind CSS
 Backend	Node.js, Express.js
 Real-Time Communication	WebRTC, Socket.IO
 State Management	React Hooks
-Deployment	Vercel / Render / Netlify (Frontend) + Railway / Render (Backend)
+Deployment	Render 
 
 🧩 How It Works
 
